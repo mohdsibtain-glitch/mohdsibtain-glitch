@@ -16,10 +16,10 @@
 
 <br/><br/>
 
-<a href="https://your-portfolio-link.example.com">
+<a href="[https://your-portfolio-link.example.com](https://mohdsibtain.lovable.app/)">
   <img src="https://img.shields.io/badge/Portfolio-%20Visit%20Now-6A11CB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1A2E" />
 </a>
-<a href="https://linkedin.com/in/your-linkedin-handle">
+<a href="https://linkedin.com/in/your-Mohd Sibtain">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4E4593?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E" />
 </a>
 
