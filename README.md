@@ -16,10 +16,10 @@
 
 <br/><br/>
 
-<a href="[https://your-portfolio-link.example.com](https://mohdsibtain.lovable.app/)">
+<a href="(https://mohdsibtain.lovable.app/)">
   <img src="https://img.shields.io/badge/Portfolio-%20Visit%20Now-6A11CB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1A2E" />
 </a>
-<a href="https://linkedin.com/in/your-Mohd Sibtain">
+<a href="www.linkedin.com/in/mohd-sibtain-8b7947299">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4E4593?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E" />
 </a>
 
@@ -213,13 +213,13 @@ fun_fact: "I'd rather write one clean SUMIFS formula than ten messy ones"
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-linkedin-handle">
+<a href="www.linkedin.com/in/mohd-sibtain-8b7947299">
   <img src="https://img.shields.io/badge/LinkedIn-4E4593?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E" />
 </a>
-<a href="https://your-portfolio-link.example.com">
+<a href="(https://mohdsibtain.lovable.app/)">
   <img src="https://img.shields.io/badge/Portfolio-6A11CB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1A2E" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:your.67mohdsibtain@gmail.com">
   <img src="https://img.shields.io/badge/Email-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E" />
 </a>
 
