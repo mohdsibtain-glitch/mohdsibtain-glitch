@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=Mohd%20Sibtain&fontSize=60&fontColor=D6BBFB&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20Analytics%20Engineer%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Excel%20%C2%B7%20Dashboards&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2&height=2&section=header" width="100%" />
 
 <br/>
 
@@ -27,8 +27,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&ampcolor=0:24243E,100:0F0C29&ampheight=2&ampsection=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2&height=2&section=header" width="100%" />
 <br/>
 
 <br>
@@ -44,7 +43,7 @@ fun_fact: "I'd rather write one clean SUMIFS formula than ten messy ones"
 ```
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243E,100:0F0C29&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2&height=2&section=header" width="100%" />
 <br/>
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/hammer-and-wrench_1f6e0-fe0f.png" width="28"/> &nbsp;Tech Stack
@@ -70,11 +69,11 @@ fun_fact: "I'd rather write one clean SUMIFS formula than ten messy ones"
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243E,100:0F0C29&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2&height=2&section=header" width="100%" />
 
 <br/>
 
-##<img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="28"/> &nbsp;Featured Projects
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="28"/> &nbsp;Featured Projects
 
 <br/>
 
@@ -181,7 +180,7 @@ fun_fact: "I'd rather write one clean SUMIFS formula than ten messy ones"
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243E,100:0F0C29&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2&height=2&section=header" width="100%" />
 
 <br/>
 
@@ -204,7 +203,7 @@ fun_fact: "I'd rather write one clean SUMIFS formula than ten messy ones"
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243E,100:0F0C29&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2&height=2&section=header" width="100%" />
 
 <br/>
 
@@ -227,4 +226,4 @@ fun_fact: "I'd rather write one clean SUMIFS formula than ten messy ones"
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2&height=2&section=header" width="100%" />
