@@ -44,7 +44,7 @@ fun_fact: "I'd rather write one clean SUMIFS formula than ten messy ones"
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243E,100:0F0C29&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect color=0:24243E,100:0F0C29&height=2&section=header" width="100%"/>
 
 <br/>
 
@@ -75,7 +75,7 @@ fun_fact: "I'd rather write one clean SUMIFS formula than ten messy ones"
 
 <br/>
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="28"/> &nbsp;Featured Projects
+##<img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="28"/> &nbsp;Featured Projects
 
 <br/>
 
@@ -216,10 +216,10 @@ fun_fact: "I'd rather write one clean SUMIFS formula than ten messy ones"
 <a href="www.linkedin.com/in/mohd-sibtain-8b7947299">
   <img src="https://img.shields.io/badge/LinkedIn-4E4593?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E" />
 </a>
-<a href="(https://mohdsibtain.lovable.app/)">
+<a href="[https://mohdsibtain.lovable.app/]">
   <img src="https://img.shields.io/badge/Portfolio-6A11CB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1A2E" />
 </a>
-<a href="mailto:your.67mohdsibtain@gmail.com">
+<a href="mailto:.67mohdsibtain@gmail.com">
   <img src="https://img.shields.io/badge/Email-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E" />
 </a>
 
