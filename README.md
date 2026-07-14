@@ -44,8 +44,7 @@ fun_fact: "I'd rather write one clean SUMIFS formula than ten messy ones"
 ```
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect color=0:24243E,100:0F0C29&height=2&section=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243E,100:0F0C29&height=2&section=header" width="100%"/>
 <br/>
 
 ##<img src="https://em-content.zobj.net/source/microsoft-teams/363/hammer-and-wrench_1f6e0-fe0f.png" width="28"/> &nbsp;Tech Stack
