@@ -16,10 +16,10 @@
 
 <br/><br/>
 
-<a href="(https://mohdsibtain.lovable.app/)">
+<a href="https://mohdsibtain.lovable.app/">
   <img src="https://img.shields.io/badge/Portfolio-%20Visit%20Now-6A11CB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1A2E" />
 </a>
-<a href="www.linkedin.com/in/mohd-sibtain-8b7947299">
+<a href="https://www.linkedin.com/in/mohd-sibtain-8b7947299/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4E4593?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E" />
 </a>
 
@@ -27,7 +27,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243E,100:0F0C29&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&ampcolor=0:24243E,100:0F0C29&ampheight=2&ampsection=header" width="100%"/>
 
 <br/>
 
@@ -47,7 +47,7 @@ fun_fact: "I'd rather write one clean SUMIFS formula than ten messy ones"
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243E,100:0F0C29&height=2&section=header" width="100%"/>
 <br/>
 
-##<img src="https://em-content.zobj.net/source/microsoft-teams/363/hammer-and-wrench_1f6e0-fe0f.png" width="28"/> &nbsp;Tech Stack
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/hammer-and-wrench_1f6e0-fe0f.png" width="28"/> &nbsp;Tech Stack
 
 <div align="center">
 
